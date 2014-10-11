@@ -1,7 +1,10 @@
-标题：创业点子、产品、团队和执行（第一部分）& 我们为什么要创业
-作者：Sam Aleman
-译者：张路遥，吴云泥，黄沁，Teresa
-正文：
+## 标题：创业点子、产品、团队和执行（第一部分）& 我们为什么要创业
+
+* 作者：Sam Aleman
+* 译者：张路遥，吴云泥，黄沁，Teresa
+
+
+### 正文：
 
 Welcome
 欢迎
@@ -22,7 +25,7 @@ All of the advice in this class is geared towards people starting a business whe
 
 这门课所给出的建议，是面向那些正在创建一门生意的人，他们的目标是高速成长并最终发展成一家大公司。这里许多建议并不能应用到其他场景中，所以我要提前警告大家，如果你打算把这些东西用到大公司或者非创业公司中去，它不会管用的。这是很有意思的，我确实认为创业就是未来，值得我们花工夫去理解它们，但创业公司和普通的公司又有很大的不一样。所以今天和周四的课上，我将要对创业关键的四个方面给出一个概述，来帮助你最大限度地取得创业成功。然后在整个课程中，演讲嘉宾们将会对这些方面进行更详细深入的阐述。
 
-Ideas, Products, Teams and Execution Part I
+### Ideas, Products, Teams and Execution Part I
 
 So the four areas: You need a great idea, a great product, a great team, and great execution. These overlap somewhat, but I'm going to have to talk about them somewhat individually to make it make sense.
 
@@ -244,9 +247,9 @@ So I'm going to pause here, we'll pick back up with the rest of this on Thursday
 
 所以在这里我将暂停一下。我们将在周二讲述剩下的部分。现在Dustin将讲一下为什么创业。欢迎Dustin。
 
-Why To Start A Startup
+### Why To Start A Startup
 
-为什么创业
+### 为什么创业
 
 But yeah, Sam asked me to talk about why you should start a startup. There's a bunch of common reasons that people have, that I hear all the time for why you might start a startup. Its important to know what reason is yours, because some of them only make sense in certain contexts, some of them will actually, like, lead you astray. You may have been mislead by the way that Hollywood or the press likes to romanticize entrepreneurship, so I want to try to illuminate some of those potential fallacies, so you guys can make the decision in a clear way. And then I'll talk about the reason I like best for actually starting a startup, its very related to a lot of what Sam just talked about. But surprisingly, I don't think its the most common reason. Usually people have one of these other reasons, or, you know, they just want to start a company for the sake of starting a company.
 
@@ -345,6 +348,7 @@ Some companies like to tell the story about you can have your cake and eat it to
 许多公司喜欢讲这样的故事，你可以有好处并享受它，也许你可以一周只工作四天，如果你 是Tim Ferris，你还可以一周只工作12小时，多么吸引人的想法呀！但这只是特例，特例是说你研究完市场后只想运营一家小公司，当小公司的老板。但根本没意义，因为只要捏员工数达到两三人，你还是要建立全职的体系。
  
 You'll make more money and have more impact 
+
 你会很有钱并且更有影响力
 
 This is the big one, the one I hear the most especially like candidates applying to a [?], they tell me "You know I'd really like to work for much smaller companies or start my own because then I have a much bigger slice of the pie or have much more impact on how that company does and I'll have more equity so I'll make more money as well". So let's examine when this might be true. 
@@ -352,6 +356,7 @@ This is the big one, the one I hear the most especially like candidates applying
 这是我听到的特别是像申请公司的候选人说到的最可能的一个。他们说：他们确实很想在小公司工作或自己创建小公司，但当我有更大份额或公司更有影响力时，我就会有更多的股份，那样就会赚更多的钱，所以如果真是这样，咱们就一起去研究下。
  
 I'll explain these tables. They're a little complex but let's focus on the left first. These are just explaining Dropbox and Facebook, these are their current valuations and this is how much money you might make as employee number 100 coming into these companies especially if you're like an experienced, relatively experienced engineer, you have like 5 years of industry experience, you're pretty likely to have an offer that's around 10 base points. If you joined Dropbox couple years ago the upside you've already locked in is about $10M and there's plenty more growth from there. If you joined Facebook a couple years into its existence you've already made around $200M, this is a huge number and even if you joined Facebook as employee number 1000, so you joined like 2009, you still make $20M, that's a giant number and that's how you should be benchmarking when you're thinking about what you might make as an entrepreneur. 
+
 现在我解释一下这个表格，看起来有点复杂但咱们现在左侧的表。这些都是解释 Dropbox 和Facebook的，这些都是他们当前的估值,然后第二栏代表第100个加入的员工你能赚多少钱，特别如果你是有经验的或者说是相对有经验的工程师，譬如说是有五年工作经验，应该会拿到大约10基点左右的工作。如果是几年前来的Dropbox，你的薪资大概锁定在1000万美元，并且还会有很多上升空间。如果是几年前来的Facebook，你的年薪估计已经达到2亿美元了，这是个大数，就算你是第1000位员工，差不多2009年进入，你也还是拿到了2000万美元，那是个大数，当你思考你可能会作为一个企业家时你就会考虑这些方面。
 
 Moving over to the table on the right, these are two theoretical companies you might start. "Uber for Pet Sitting", pretty good idea if you're really well suited to this you might have a really good shot at building a $100M company and your share of that company is likely to be around 10%; that certainly fluctuates a lot, some founders have more than this, some founders have a lot less, but after multiple rounds of dilution, multiple rounds of option pool creation you're pretty likely to end up about here. If you have more than this I'd recommend Sam's post on equity split between founders and employees, you should be probably giving out more. 
@@ -391,6 +396,7 @@ So important to keep in mind the context for what kind of company you're trying 
 所以重要的是要记住，你想要创立公司的目的是什么，你用什么方式能把它实现。
 
 So what's the best reason?
+
 那么最好的理由到底是什么？
 
 Sam already talked about this a little bit, but basically you can't not do it. You're super passionate about this idea, you're the right person to do it, you've gotta make it happen. So how does this break down? 
