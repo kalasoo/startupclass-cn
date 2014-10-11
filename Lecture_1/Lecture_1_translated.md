@@ -3,7 +3,6 @@
 * 作者：Sam Aleman
 * 译者：张路遥，吴云泥，黄沁，Teresa
 
-
 ### 正文：
 
 Welcome

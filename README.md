@@ -3,11 +3,20 @@ startupclass-cn
 
 Startupclass 中文翻译文稿
 
-> 首先要谢谢大家的热情参与，也谢谢[路遥](http://blog.zhangluyao.com)@levi0214 组建了翻译团队，并且联合大家一起学习交流。
+> 首先要谢谢大家的热情参与，也谢谢 [@路遥](http://blog.zhangluyao.com) 组建了翻译团队，并且联合大家一起学习交流。
 
-几个可爱的链接：
+内地观看链接：
 
 * [中文字幕、无需翻墙视频、阅读资料和讨论区](http://startupclass.club/)
+
+翻译文稿：
+
+* [Lecture 1](https://github.com/kalasoo/startupclass-cn/blob/master/Lecture_1/Lecture_1_translated.md)
+* [Lecture 2](https://github.com/kalasoo/startupclass-cn/blob/master/Lecture_2/Lecture_2_translated.md)
+
+
+其他链接：
+
 * [Sam Altman课程页面](http://startupclass.samaltman.com/)
 * [Youtube Channel](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)
 * [英文讨论区](http://startupclass.co/)
